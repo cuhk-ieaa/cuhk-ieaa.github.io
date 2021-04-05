@@ -5,7 +5,7 @@ title: Contact Us
 
 You can contact us at our email [cuhkieaa@gmail.com](mailto:cuhkieaa@gmail.com) or write to
 
-c/o IEAA
+c/o IEAA<br/>
 General Office<br/>
 Department of Information Engineering<br/>
 Room 834, Ho Sin Hang Engineering Building<br/>
