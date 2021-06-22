@@ -7,6 +7,31 @@
 		<atom:link href="/rss-feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Alumni Sharing Series - Blockchain and Cryptocurrencies</title>
+				
+					<dc:creator>Albert Au Yeung</dc:creator>
+				
+				
+					<description>&lt;p&gt;The next alumni sharing event is coming! &lt;strong&gt;&lt;a href=&quot;https://docs.google.com/forms/d/e/1FAIpQLSd2v1HoV72AQ4VltOHILayvacDA21XymfTDBL5h2ymFijsK_g/viewform&quot;&gt;Register Now&lt;/a&gt;!&lt;/strong&gt; IEAA is organising an alumni sharing event on the topic of blockchain and cryptocurrencies. The details of the event is as follows:&lt;/p&gt;
+
+&lt;h3 id=&quot;date&quot;&gt;Date&lt;/h3&gt;
+&lt;p&gt;17th July, 2021 (Sat)&lt;/p&gt;
+
+&lt;h3 id=&quot;time&quot;&gt;Time&lt;/h3&gt;
+&lt;p&gt;4:30pm - 6:00pm (Hong Kong Time)&lt;/p&gt;
+
+&lt;h3 id=&quot;venue&quot;&gt;Venue&lt;/h3&gt;
+&lt;p&gt;Online Event&lt;br /&gt;
+(Zoom meeting link will be shared to participants before the event)&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Tue, 22 Jun 2021 00:00:00 +0100</pubDate>
+				<link>http://localhost:5001/2021/06/22/alumni-sharing.html</link>
+				<guid isPermaLink="true">http://localhost:5001/2021/06/22/alumni-sharing.html</guid>
+			</item>
+		
+			<item>
 				<title>Alumni Sharing Series - Studying &amp; Working Abroad</title>
 				
 					<dc:creator>Albert Au Yeung</dc:creator>
@@ -27,8 +52,8 @@
 </description>
 				
 				<pubDate>Mon, 05 Apr 2021 00:00:00 +0100</pubDate>
-				<link>/2021/04/05/alumni-sharing.html</link>
-				<guid isPermaLink="true">/2021/04/05/alumni-sharing.html</guid>
+				<link>http://localhost:5001/2021/04/05/alumni-sharing.html</link>
+				<guid isPermaLink="true">http://localhost:5001/2021/04/05/alumni-sharing.html</guid>
 			</item>
 		
 			<item>
@@ -41,8 +66,8 @@
 </description>
 				
 				<pubDate>Sat, 08 Sep 2018 00:00:00 +0100</pubDate>
-				<link>/2018/09/08/alumni-sharing.html</link>
-				<guid isPermaLink="true">/2018/09/08/alumni-sharing.html</guid>
+				<link>http://localhost:5001/2018/09/08/alumni-sharing.html</link>
+				<guid isPermaLink="true">http://localhost:5001/2018/09/08/alumni-sharing.html</guid>
 			</item>
 		
 			<item>
@@ -52,12 +77,11 @@
 				
 				
 					<description>&lt;p&gt;Gallery of photos of MScIE alumni activities&lt;/p&gt;
-
 </description>
 				
 				<pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-				<link>/2018/01/01/past-activities.html</link>
-				<guid isPermaLink="true">/2018/01/01/past-activities.html</guid>
+				<link>http://localhost:5001/2018/01/01/past-activities.html</link>
+				<guid isPermaLink="true">http://localhost:5001/2018/01/01/past-activities.html</guid>
 			</item>
 		
 	</channel>
