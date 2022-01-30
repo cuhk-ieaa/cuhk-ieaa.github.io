@@ -7,6 +7,21 @@
 		<atom:link href="/rss-feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Video Recordings of Alumni Sharing Events</title>
+				
+					<dc:creator>Albert Au Yeung</dc:creator>
+				
+				
+					<description>&lt;p&gt;We successfully organized two alumni sharing events on 22nd May and 17th July 2021. The video recordings of the events are now available on Youtube.&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Sun, 30 Jan 2022 00:00:00 +0000</pubDate>
+				<link>/2022/01/30/sharing-videos.html</link>
+				<guid isPermaLink="true">/2022/01/30/sharing-videos.html</guid>
+			</item>
+		
+			<item>
 				<title>Alumni Sharing Series - Blockchain and Cryptocurrencies</title>
 				
 					<dc:creator>Albert Au Yeung</dc:creator>
@@ -27,8 +42,8 @@
 </description>
 				
 				<pubDate>Tue, 22 Jun 2021 00:00:00 +0100</pubDate>
-				<link>http://localhost:5001/2021/06/22/alumni-sharing.html</link>
-				<guid isPermaLink="true">http://localhost:5001/2021/06/22/alumni-sharing.html</guid>
+				<link>/2021/06/22/alumni-sharing.html</link>
+				<guid isPermaLink="true">/2021/06/22/alumni-sharing.html</guid>
 			</item>
 		
 			<item>
@@ -52,8 +67,8 @@
 </description>
 				
 				<pubDate>Mon, 05 Apr 2021 00:00:00 +0100</pubDate>
-				<link>http://localhost:5001/2021/04/05/alumni-sharing.html</link>
-				<guid isPermaLink="true">http://localhost:5001/2021/04/05/alumni-sharing.html</guid>
+				<link>/2021/04/05/alumni-sharing.html</link>
+				<guid isPermaLink="true">/2021/04/05/alumni-sharing.html</guid>
 			</item>
 		
 			<item>
@@ -66,8 +81,8 @@
 </description>
 				
 				<pubDate>Sat, 08 Sep 2018 00:00:00 +0100</pubDate>
-				<link>http://localhost:5001/2018/09/08/alumni-sharing.html</link>
-				<guid isPermaLink="true">http://localhost:5001/2018/09/08/alumni-sharing.html</guid>
+				<link>/2018/09/08/alumni-sharing.html</link>
+				<guid isPermaLink="true">/2018/09/08/alumni-sharing.html</guid>
 			</item>
 		
 			<item>
@@ -80,8 +95,8 @@
 </description>
 				
 				<pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-				<link>http://localhost:5001/2018/01/01/past-activities.html</link>
-				<guid isPermaLink="true">http://localhost:5001/2018/01/01/past-activities.html</guid>
+				<link>/2018/01/01/past-activities.html</link>
+				<guid isPermaLink="true">/2018/01/01/past-activities.html</guid>
 			</item>
 		
 	</channel>
